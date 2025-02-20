@@ -1,5 +1,5 @@
 body{
-    background-image: url("Protection\ Console\ GIF\ by\ Xbox.gif");
+    background-image: url("/source/Protection\ Console\ GIF\ by\ Xbox.gif");
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -160,6 +160,8 @@ pre{
     }
 }
 .list{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
     float: left;
     margin: 45px;
     padding: auto;
@@ -227,7 +229,7 @@ b{
     border: none;
     width: 400px;
     height: 500px;
-    background: url('jett.gif');
+    background: url('/source/jett.gif');
     color: black;
     border-radius: 20px;
     box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.75);
